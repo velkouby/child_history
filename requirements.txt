@@ -1,0 +1,9 @@
+Flask
+openai
+Werkzeug
+markdown2
+pdfkit
+Flask-WTF
+Flask-Talisman
+Flask-Limiter
+pyOpenSSL
